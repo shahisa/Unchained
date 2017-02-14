@@ -19,10 +19,6 @@ export default class Unchained extends Component {
         <Text style={styles.welcome}>
           Unchained
         </Text>
-        <Text style={styles.instructions}>
-        </Text>
-        <Text style={styles.instructions}>
-        </Text>
       </View>
     );
   }
@@ -33,7 +29,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    backgroundColor: '#E8082A',
   },
   welcome: {
     fontSize: 20,
